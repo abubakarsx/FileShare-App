@@ -20,6 +20,4 @@ Benefits of File Share App for file sharing:
   • User-friendly
 
 ## Video Demo
-
-https://user-images.githubusercontent.com/80326453/170870653-68b01005-13b3-47c6-a349-492692e0503d.mp4
-
+https://bafybeid5bmzpjes4uvmdvsfgqemecrshx3h6nrlmyghe7bw26xfhoibaka.ipfs.dweb.link/
